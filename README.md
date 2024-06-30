@@ -7,3 +7,23 @@ Tutorial Mode: Introduces users to vital safety measures and emergency procedure
 ![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/4c7a19c1-0738-4882-af4b-a26e1c240971)
 
 Main interface showing options for tutorial and test modes.
+
+#Tutorial Mode: UI - Task-bar
+![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/c67c0a20-5b76-401f-8987-2f93d31938a5)
+
+Keep track of the user task progress.
+
+#Tutorial Mode: Learning Safety Procedures 
+![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/0655fea8-eb39-41eb-91a8-58c4c3c7437b)
+
+Interactive tutorial teaching earthquake safety procedures.
+
+# If the user didnt servive the earthquake
+
+![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/a340dd5e-81b4-43b6-86a1-95c189cd0085) 
+
+
+Feedback screen providing performance analysis and suggestions for improvement.
+
+This VR application offers a comprehensive approach to learning and practicing earthquake safety, enhancing preparedness through a combination of tutorial and test scenarios in a controlled, immersive environment.
+
