@@ -8,12 +8,12 @@ Tutorial Mode: Introduces users to vital safety measures and emergency procedure
 
 Main interface showing options for tutorial and test modes.
 
-#Tutorial Mode: UI - Task-bar
+# Tutorial Mode: UI - Task-bar
 ![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/c67c0a20-5b76-401f-8987-2f93d31938a5)
 
 Keep track of the user task progress.
 
-#Tutorial Mode: Learning Safety Procedures 
+# Tutorial Mode: Learning Safety Procedures 
 ![image](https://github.com/alhassan-alshareef/SANAD/assets/174230485/0655fea8-eb39-41eb-91a8-58c4c3c7437b)
 
 Interactive tutorial teaching earthquake safety procedures.
